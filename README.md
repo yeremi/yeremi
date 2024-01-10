@@ -1,7 +1,7 @@
 <h1>Hi 👋, I'm Yeremi</h1>
 <h3>PHP developer</h3>
 
-I’m currently working with: **Wordpress, Symfony5, Magento2**
+I’m currently working with: **WordPress, Symfony5, Magento2**
 
 How to reach me: **yeremiloli@yahoo.com**
 
