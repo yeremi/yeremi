@@ -1,16 +1,29 @@
-<h1>Hi 👋, I'm Yeremi</h1>
-<h3>PHP developer</h3>
+### Hi there! 👋
 
-I’m currently working with: **WordPress, Symfony5, Magento2**
+I'm Yeremi Loli, a PHP Developer and WordPress Engineer crafting digital experiences from Germany. Currently, I'm helping build the future of web development at Syde GmbH, where I architect scalable solutions that push the boundaries of what's possible with WordPress.
 
-How to reach me: **yeremiloli@yahoo.com**
+#### What I Do
 
-| Connect with me | Languages and Tools |
-| :---: | :---: |
-| <a href="https://twitter.com/yeremiloli" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="yeremiloli" height="20" width="30" /></a><a href="https://linkedin.com/in/yeremiloli" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yeremiloli" height="20" width="30" /></a><a href="https://stackoverflow.com/users/2278317" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="2278317" height="20" width="30" /></a><a href="https://medium.com/@yeremi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@yeremi" height="20" width="30" /></a><a href="https://www.hackerrank.com/yeremiloli" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="yeremiloli" height="20" width="30" /></a>|<a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="20" height="20"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="20" height="20"/> </a> <a href="https://www.elastic.co" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" alt="elasticsearch" width="20" height="20"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="20" height="20"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="20" height="20"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="20" height="20"/> </a> <a href="https://mariadb.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="20" height="20"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="20" height="20"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="20" height="20"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="20" height="20"/> </a>|
+I specialize in developing web applications with a focus on:
+- Enterprise WordPress Development
+- Backend System Architecture
+- API Integrations
+- Performance Optimization
 
 
+#### Open Source Impact
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=yeremi&show_icons=true&locale=en&layout=compact" alt="yeremi" />
+I'm passionate about giving back to the developer community through open-source contributions. Here are some of my key projects:
 
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yeremi&" alt="yeremi" />
+##### Schema Mapper
+A powerful PHP library that transforms complex API responses into clean, type-safe PHP objects using attributes. It simplifies data handling and reduces boilerplate code, making integration work more efficient and maintainable.
+
+##### Stopwords
+A comprehensive library for text processing and analysis, providing robust tools for managing and filtering stopwords across multiple languages. Perfect for applications requiring natural language processing or content optimization.
+
+##### WP Ingresso
+A custom WordPress plugin designed to integrate with the Ingresso API (Brazil), fetching movie data and dynamically displaying it on your WordPress site. Built using Domain-Driven Design (DDD) principles, this plugin ensures modularity, scalability, and easy maintenance.
+
+#### Let's Connect!
+
+I'm always excited to collaborate on interesting projects or discuss innovative solutions. Feel free to explore my repositories or reach out if you'd like to work together!
